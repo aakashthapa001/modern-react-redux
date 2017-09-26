@@ -1,3 +1,3 @@
-# Modern React with Redux
+# Apps with practice of Modern React-Redux
 
-All apps are from Udemy Course practices
+Apps made with practice with react-redux
